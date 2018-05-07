@@ -8,3 +8,6 @@
 	* 2.包括用户注册/登陆, 大神/老板列表, 实时聊天等模块
 	* 3.前端: 使用React全家桶+ES6+Webpack等技术
 	* 4.后端: 使用Node + express + mongodb + socketIO等技术
+	* 5.采用模块化、组件化、工程化的模式开发
+
+> 后台代码在server文件夹内
